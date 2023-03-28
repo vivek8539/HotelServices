@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="3e8394d9-1a9d-4378-b3a0-ac3763c48feb" name="HotelServices" url="jdbc:mysql://localhost:3306/microservices/HotelServices?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.cj.jdbc.Driver" />
+      <data-source id="7e2c66ba-b6c8-4828-acef-165221d68fbb" name="microservices" url="jdbc:mysql://localhost:3306/microservices" driverClass="com.mysql.cj.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
